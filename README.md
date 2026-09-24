@@ -224,9 +224,9 @@ Partway through testing, _client.py_ crashed with an _AttributeError: 'ThinkingB
 # Installation and Setup
 
 ```
-git clone https://github.com/k3sharma/SaronicAIChallenge.git
+git clone https://github.com/k3sharma/AIAgentSecurityGateway.git
 
-cd SaronicAIChallenge
+cd AIAgentSecurityGateway
 
 python3 -m venv .venv
 
